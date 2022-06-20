@@ -6,7 +6,7 @@ Uses [jspdf-react](https://www.npmjs.com/package/jspdf-react) to capture the dat
 ### Installation
 
 ```
-git clone https://github.com/johnuberbacher/invoice-generator
+git clone https://github.com/fajaragngn/invoice-generator
 
 npm install
 
